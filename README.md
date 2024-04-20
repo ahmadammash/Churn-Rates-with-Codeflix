@@ -19,5 +19,5 @@ SQL Queries were used to complete the following steps:
 ## Investigate the Overall Churn Trend since the Company Launched
 SQL queries were used to calculate each month's overall churn rate by dividing the total number of inactive customers (from both segments) by the total number of active customers (from both segments). The trend was examined over the first three months of 2017.
 
-## Investigate the Churn Rates Between User Segments
+## Investigate the Churn Rates Between User Segments since the Company Launched
 SQL queries were used to calculate each month's churn rate for each of the two customer segments. 
